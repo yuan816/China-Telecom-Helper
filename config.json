@@ -2,10 +2,10 @@
 	"users": [{
 			"AutoUpdate": "false",
 			"Notice": "GitHub",
-			"cookie": "cookie",
-			"para512": "para512字符",
-			"phone": 13800138000,
-			"para768": "para768字符",
+			"cookie": "02E11902850405C0-0D721CF1C5A583CE",
+			"para512": "077084c85ceb269a5fca5b2e12338d3c23c4717f7d305d9c35d88646da8c2214782add80fa83091d150e9069566c2636214e4131afc9e15e744fcf5fc1de701d4a7337873c195282a5a4cf3f12f3b6c0b9596132ec5f95ebdd484a1558587c6cf8d894b587872138ef695451ffdee8ef6e4d8cf0accd3d5f887bca3bd74ee623",
+			"phone": 18058944301,
+			"para768": "b0c2d8e969c65dba8878dc4398aee57636eac19c62c637946f11d365fbd63330afb00ca7be05e11f268de11f223849baab14c19f7ed7c77f27a191a69ec7eba5a56fd420b0cfbc41e13c60fc5b9dcfeab47e6a5d295e36f5e63c4575b5eaebb2d664426c595ac95058bb988220c79a1ef63ab18b448d4103445fa99d864493bb",
 			"Paradise": [{
 				"setting": "true"
 			}, {
